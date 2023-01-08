@@ -1,0 +1,76 @@
+.containerPrimary{
+    background-image: radial-gradient(circle at 50% 94.05%, #cabd47 0, #d4b641 5.56%, #ddae3c 11.11%, #e5a439 16.67%, #ec9937 22.22%, #f28d37 27.78%, #f67f39 33.33%, #f96f3c 38.89%, #fa5c41 44.44%, #f94646 50%, #f7294d 55.56%, #f30056 61.11%, #ee0061 66.67%, #e8006e 72.22%, #df007c 77.78%, #d4008b 83.33%, #c7009b 88.89%, #b600ab 94.44%, #a100bb 100%);
+    margin: 20px 320px 0px 300px;
+    padding-top: 2px;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px 2px 1px rgb(100, 92, 92);
+    border-radius: 20px;
+}
+
+.containerSecondary{
+    padding-left: 260px;
+}
+
+.containerTertiary{
+    background-color: aqua;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    padding-left: 50px;
+    padding-top: 0px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    box-shadow: 2px 1px 2px 1px rgb(102, 100, 100);
+}
+
+input{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+button{
+    background-color: rgb(58, 255, 58);
+    margin-top: 10px;
+    margin-left: 65px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 1px 0px 0px rgb(68, 65, 65);
+}
+
+button:active{
+    box-shadow: none;
+}
+
+label{
+    display: flex;
+}
+
+.tabela{
+    display: flex;
+    border-bottom: 1px solid;
+    margin-right: 160px;
+    margin-left: 55px;
+}
+
+.parag{
+    margin-left: 50px;
+}
+
+h3{
+    margin-left: 270px;
+    margin-top: 20px; 
+}
+
+p{
+    padding-left: 40px;
+}
+
+span{
+    margin-left: 25px;
+}
+
+.calcImc {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 2px;
+}
